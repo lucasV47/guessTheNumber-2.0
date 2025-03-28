@@ -18,10 +18,10 @@ This is a simple number guessing game where the player tries to guess a random n
 
 ## Running the Game
 
-Clone this repository and run the main file:
+Clone this repository and run the main file in terminal:
 
 ```sh
-python filename.py
+python main.py
 ```
 
 Have fun playing!
